@@ -11,7 +11,19 @@ The notebooks illustrate usage of various tools bundled with slicer to achieve i
 ├── 01_Setup.md                     - Instructions to setup Jupyter Lab in Slicer
 ├── 02_Hello_Slicer.ipynb           - Basic verification that the environment is working
 ├── 03_Volumes&Orientations.ipynb   - Volume orientation notebook
+├── 04_Data_sampling.ipynb          - Data sampling notebook
+├── img                             - Playground image assets
+└── playground_utils.py             - Helper functions
 ```
 ## Links, references and examples
 
-The linked materials contain a number of useful snippets, ready-to-use functions and logic that can be coppied.
+The linked materials contain a big number of useful snippets, ready-to-use functions and logic that can be coppied.
+
+Main:
+
+- [Slicer python script repository](https://www.slicer.org/wiki/Documentation/Nightly/ScriptRepository)
+- [Slicer documentation](https://slicer.readthedocs.io/en/latest/index.html)
+
+Extra:
+
+- [QIICR Slicer Development Toolbox.](https://github.com/QIICR/SlicerDevelopmentToolbox/blob/master/SlicerDevelopmentToolboxUtils/mixins.py)
