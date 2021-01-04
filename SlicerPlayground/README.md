@@ -9,6 +9,8 @@ The notebooks illustrate usage of various tools bundled with slicer to achieve i
 ```
 .
 ├── 01_Setup.md                     - Instructions to setup Jupyter Lab in Slicer
+├── 02_Hello_Slicer.ipynb           - Basic verification that the environment is working
+├── 03_Volumes&Orientations.ipynb   - Volume orientation notebook
 ```
 ## Links, references and examples
 
