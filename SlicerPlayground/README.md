@@ -15,6 +15,17 @@ The notebooks illustrate usage of various tools bundled with slicer to achieve i
 ├── img                             - Playground image assets
 └── playground_utils.py             - Helper functions
 ```
+
+The notebooks in this repository illustrate usage of the following functionality:
+
+- Data IO
+- Data generation
+- Image array handling
+- Slicer UI layout management
+- Slicer scripted and CLI module access
+- Basic image operations
+- etc.
+
 ## Links, references and examples
 
 The linked materials contain a big number of useful snippets, ready-to-use functions and logic that can be coppied.
@@ -23,6 +34,7 @@ Main:
 
 - [Slicer python script repository](https://www.slicer.org/wiki/Documentation/Nightly/ScriptRepository)
 - [Slicer documentation](https://slicer.readthedocs.io/en/latest/index.html)
+- [Python test cases from Slicer source](https://github.com/Slicer/Slicer/tree/master/Applications/SlicerApp/Testing/Python)
 
 Extra:
 
