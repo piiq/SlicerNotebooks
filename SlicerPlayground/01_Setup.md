@@ -74,3 +74,18 @@ $SLICER_PATH --no-main-window -c "slicer.util._executePythonModule('jupyter', ['
 
 ---
 
+### Links, hints and extra tools
+
+For more notebook examples check out:
+[https://github.com/lassoan/SlicerNotebookDemos](https://github.com/lassoan/SlicerNotebookDemos)
+
+
+Elyra jupyter lab extension provides some nice features for building workflows. Including a visual workflow editor and an interface to launching custom dockerized environments in k8s.
+
+```python
+pip_install('--upgrade elyra --no-cache-dir')
+```
+
+Very good explanation of an approach to hacking into slicer:
+[https://discourse.slicer.org/t/fov-spacing-match-volumes/11905/4](https://discourse.slicer.org/t/fov-spacing-match-volumes/11905/4)
+
